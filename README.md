@@ -6,9 +6,9 @@
 <div>
     <p>
   <span align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Starmoon9159"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Starmoon9159&theme=tokyonight"/>
   </span>
-  <img align="right" width="30%" src="[https://github-stats-api.aaaaoncloud.eu.org/api/top-langs/?username=Starmoon9159&langs_count=8](https://camo.githubusercontent.com/759c276e4a3c99e25c8e72c7071f33b2d19cb92eb86f94daca94ca7f88e479a0/68747470733a2f2f6769746875622d73746174732d6170692e616161616f6e636c6f75642e65752e6f72672f6170692f746f702d6c616e67732f3f757365726e616d653d537461726d6f6f6e39313539266c616e67735f636f756e743d38)" title="Alex's Most Used Programing Languages">
+  <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starmoon9159&langs_count=100&theme=tokyonight" title="Starmoon's Most Used Programing Languages">
   </p>
 
 <div>
